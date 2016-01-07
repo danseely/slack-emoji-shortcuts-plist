@@ -18,9 +18,9 @@ The structure of the `plist` file is as such:
 <array>
 	<dict>
 		<key>phrase</key>
-		<string>¯\_(ツ)_/¯</string>
+		<string>💥</string>
 		<key>shortcut</key>
-		<string>shrg</string>
+		<string>kapow</string>
 	</dict>
 </array>
 </plist>
