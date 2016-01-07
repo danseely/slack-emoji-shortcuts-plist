@@ -25,3 +25,9 @@ The structure of the `plist` file is as such:
 </array>
 </plist>
 ```
+
+---
+
+Found another project that basically solves this issue, going to pause development on this while I test it out. 
+
+https://github.com/noahmanger/emoji-text-replacement
